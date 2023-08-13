@@ -13,7 +13,7 @@ image:
 
 **Welcome to the Cybersecurity Threat Hunting and Detection Lab!**
 
-In this engaging and hands-on lab, we're excited to guide you through the world of cyber threat hunting and detection. Before we dive into the exciting world of identifying and mitigating digital threats, let's ensure you're all set up for success. Below are the lab requirements and prerequisites, providing you a clear roadmap to get started:
+In this engaging and hands-on lab, I am excited to guide you through the world of cyber threat hunting and detection. Before we dive into the exciting world of identifying and mitigating digital threats, let's ensure you're all set up for success. Below are the lab requirements and prerequisites, providing you a clear roadmap to get started:
 
 **Lab Requirements:**
 
