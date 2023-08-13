@@ -40,6 +40,7 @@ In this engaging and hands-on lab, I am excited to guide you through the world o
      - Windows 10: Microsoft's popular operating system that's essential for hands-on threat detection scenarios. [Windows10](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
      - Windows Server 2019: A server operating system that plays a vital role in our lab's network environment. [Windows Server](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019-essentials)
      - Security Onion: An open-source network security monitoring and intrusion detection system. [Security Onion](https://github.com/Security-Onion-Solutions/securityonion/blob/master/VERIFY_ISO.md)
+     - Kali Linux: A powerful and versatile penetration testing and ethical hacking Linux distribution, essential for various security-related tasks.    [Kali](https://www.kali.org/get-kali/#kali-platforms)
 
 4. **Lab Documentation:**
    - Be sure to have access to any lab-specific documentation or guides provided. This will ensure you can follow along seamlessly and make the most of your learning experience.
