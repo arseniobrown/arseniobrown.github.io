@@ -38,7 +38,7 @@ Imagine having a watchful guardian that tirelessly monitors your network, analyz
 4. **Community Support:** Being open-source, Security Onion benefits from a dedicated community of users and contributors, ensuring continuous improvement and updates.
 
 **Ready to Embrace Security Onion?**
-Security Onion is your digital guardian, tirelessly standing watch over your network. In our next post, we'll guide you through the process of installing and configuring Security Onion, equipping you to fortify your network's defenses. Stay tuned and embark on a journey toward enhanced cybersecurity.
+Security Onion is your digital guardian, tirelessly standing watch over your network. In our this post, I will guide you through the process of installing and configuring Security Onion, equipping you to fortify your network's defenses. Stay tuned and embark on a journey toward enhanced cybersecurity.
 
 Defend your digital realm,
 Arsenio Brown
@@ -47,7 +47,7 @@ Arsenio Brown
 
 
 
-Lets get into 
+Lets get into it.
 
 Download Security Onion ISO File [here](https://github.com/Security-Onion-Solutions/securityonion/blob/master/VERIFY_ISO.md)
 1. In Vmware Home Select `Create a New Virtual Machine` then Select `Typical (recommended)` then Click `Next` then Browse to the Security Onion ISO. 
