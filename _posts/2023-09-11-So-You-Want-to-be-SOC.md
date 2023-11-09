@@ -5,8 +5,8 @@ date: 2023-09-11 12:00:00 +0000  # Replace with today's date and time
 categories: [Cybersecurity, SOC]
 tags: [Threat Hunting, Network Security, Malware]
 image: 
-  path: /assets/images/Soc/swords-310521_1280.png)
-  alt: Introduction
+  path: /assets/images/Soc/swords-310521_1280.png
+  alt: So You Want to be a Soc Lab
 ---
 🔍 In this electrifying series, we're not just talking theory; we're diving deep into the action-packed documentation by the legendary Eric Capuano. Get ready for a rollercoaster ride through six gripping parts:
 
